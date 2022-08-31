@@ -96,3 +96,29 @@ input:hover {
   background-color: white;
   color: var(--Orange);
 }
+
+.showcase img {
+  margin: 10px 23%;
+}
+
+.givenRate {
+  text-align: center;
+  background-color: var(--DarkBlue);
+  padding: 5px 5px 2px 5px;
+  border-radius: 25px;
+  margin: 20px 70px;
+  color: var(--Orange);
+}
+
+.appreciation {
+  text-align: center;
+}
+
+.appreciation h2 {
+  margin-top: 40px;
+}
+
+.appreciation p {
+  margin: 20px 0px;
+  color: var(--LightGrey);
+}
