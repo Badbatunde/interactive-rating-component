@@ -74,8 +74,9 @@ header img {
   color: white;
 }
 
-.rating:active {
+.ratingActive {
   background-color: var(--LightGrey);
+  color: white;
 }
 
 .rating1 {
